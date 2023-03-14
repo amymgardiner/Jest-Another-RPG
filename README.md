@@ -33,5 +33,5 @@ To test this project, in the command line type npm run test. To test a specific 
 
 If you have any questions on this program, feel free to contact me here:
 
-- Github: [amymgardiner] (https://github.com/amymgardiner)
-- Email: amymgardiner@gmail.com (mailto:amymgardiner@gmail.com)
+- Github: [amymgardiner](https://github.com/amymgardiner)
+- Email: amymgardiner@gmail.com(mailto:amymgardiner@gmail.com)
